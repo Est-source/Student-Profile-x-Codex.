@@ -37,11 +37,11 @@
 ```plaintext
 Student-Profile-x-Codex/
 
-├── profile.html # นี่คือหน้า
+├── profile.html # นี่คือหน้าเพจ
 
 ├── style.css # นี่คือที่ที่ฉันใส่สไตล์
 
 ├── sunset profile.jpg # นี่คือภาพที่ฉันใช้
 
-└── README.md # นี่คือที่ที่ฉันเขียนวิธีที่ฉันทำมัน
+└── README.md
 ```
